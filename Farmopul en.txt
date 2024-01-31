@@ -1,0 +1,80 @@
+Farmopul
+A retheme of Micropul game by Archinerd
+A solitaire puzzle for 1 or a competitive game for 2 players
+
+It is impossibly costly to harvest micropul. There is a new kind of valuable plant – Pul. It is being planted all around fields and muds. Farmers started calling these parcels Farmopul. Although very resistant to all kinds of terrain it is very hard to harvest. People all around the countryside are gathering around and working together to harvest as much Pul as possible.
+
+CONTENTS
+
+48 different tiles
+6 farmer tokens in 2 colours (3 farmers per player)
+
+GOAL
+At first, you have a limited number of tiles and must play them optimally to gain more. The goal is to collect as many tiles as possible by using as fewer tiles as possible. At the same time, try to form groups of Farmopul and claim them as your own. Scoring is done at the end when the land mass is depleted.
+
+RULES
+Understanding the game is easy once you grasp how farmopul and farmhouses interact with each other and themselves. A farmopul is a plot of land, either yellow fields or brown mud (green pastures are ignored) that has Pul plant planted on it; while farmhouses are represented by houses and mills.
+You'll notice that every tile have at least one farmopul on it. The incredibly valuable plant Pul is keeping all farmers together. The rules presented below are important to the game and must be followed at all times.
+
+RULE #1 Any new tile coming in play must be attached to the rest of the tiles already in play. More precisely, to attach your tile, one of its farmopul must be adjacent to another farmopul of a tile already in play.
+RULE #2 A yellow field farmopul can never be adjacent to a brown mud farmopul and vice-versa. For each new tile you put in play, always make sure not to place the tile in a position that will put a yellow field farmopul next to the brown mud farmopul.
+
+In the example, the tile in the lower right is the one being played.
+As per rule #1, the tile is attached to the rest of the tiles but rule #2 is not respected because a yellow field farmopul is adjacent to a brown mud farmopul. Thus, this play is not valid. If the tile is rotated 90° clockwise, it would be valid.
+
+The farmhouses (houses/mills) are not bound by the same restrictions as the farmopul. They can be adjacent to any other farmhouses of any type or any farmopul of any type/colour. Farmhouses are not used for attaching tiles together. Instead, a farmhouse next to a farmopul will activate an effect once the tile has been put in play...
+
+PREPARATION
+Place the starting tile in the middle of the table. It's the one with 4 farmopul, 2 yellow fields and 2 brown muds. Shown in the set-up example to the left.
+Shuffle all tiles face down and make a stack. Put the stack where every player can reach, it is called the land mass.
+Each player receive 6 random tiles from the land and put them in his hand.  Each player receive 3 farmer tokens of one colour and place them by his side.
+Determine the first player.
+
+ON YOUR TURN
+Players take turn one at a time. You have three options during your turn but can only do one of them.
+
+Lay a tile from your hand in play.
+Take a tile from your owned property to your hand.
+Put a farmer token on one group of farmopul.
+
+One and only one action must be taken each turn. A player cannot pass a turn. You lose the game if you have no more tiles in hand or in owned property.
+LAY A TILE FROM YOUR HAND IN PLAY
+If your hand is empty, this action cannot be taken. When laying a tile, your goal is to activate farmhouses which will enable you to draw new tiles from the land mass.
+Choose one tile in your hand and lay it next to a previously placed tile. Respect rules #1 and #2!
+Once your tile is successfully placed, check if any farmhouses have been activated. A farmhouse is activated by being adjacent to an external farmopul: If a farmopul on your tile is adjacent to a farmhouse on another tile, it is activated. Farmhouse on your tile is activated if it is adjacent to a farmopul on another tile.
+
+Draw tiles from the land mass, the big stack of tiles made at game's start. Put them face down next to you, this is now your owned property. The farmhouses activated determine how many tiles to draw. If you activated at least one mill farmhouse, play another turn.
+Draw one tile.
+
+Draw two tiles.
+
+Play again.
+
+Farmhouses are activated only once per turn but can be activated again on a subsequent turn.
+TAKE A TILE FROM YOUR OWNED PROPERTY TO YOUR HAND
+You cannot have more than 6 tiles in your hand. If your hand is full, this action cannot be taken. Taking a tile from your owned property of face down tiles will give you more choice when choosing what tile to play.
+Draw one tile at random from your owned property. Put this tile face up in your hand.
+PUT A FARMER TOKEN ON ONE GROUP OF FARMOPUL
+You cannot take this action if you have no more stones. When putting a farmer on a group, your goal is then to close that particular group so it's worth victory points to you at the end of the game.
+Put one of your farmer tokens on any farmopul of a tile in play to claim that group. You now own this group of farmopul. A farmer cannot be placed on a group that is already owned. It is possible to claim a group that is already closed.
+
+WHAT IS A GROUP OF FARMOPUL?
+It is any number of farmopul of the same type/colour linked together by being adjacent to one another. Groups can be either open or closed. Only closed groups scores points.
+Open group means that it can still grow. New farmopul can be added to that group by playing new tiles.
+Closed group means all farmopul of that group are surrounded by elements of the game. No farmopul of that group is standing at the edge of the playing area. Thus, it is impossible to add new farmopul to that group.
+It's possible for two groups claimed separately to merge into one group by playing a tile which will connect them together. That group will not be worth any points.
+When the tile is placed, it will close the group of brown mud farmopul. That group will be worth 8 points at the end of the game because there are 8 farmopuls in it.
+
+WHAT IS A BIG FARMOPUL?
+There are four tiles featuring “big farmopul” on them. They act just like a tile with four farmopul of that type/colour on it. Also, those tiles have one farmhouse that can be activated from any side. It acts like a regular farmhouse.
+
+GAME END
+The game ends as the last tile is drawn from the core. Remove stones from groups of micropul that are still open or
+have more than one stone on them. Those groups will not score points.
+
+For each closed group you own, score victory points for each farmopul in that group. Each farmopul is worth 1 point. A big farmopul is worth 1 point, too.
+Each tile in your owned property is worth 2 points. Each tile in your hand is worth 1 point.
+
+The player with the most points wins the game. There are no tie-breakers.
+
+

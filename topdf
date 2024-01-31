@@ -1,0 +1,5 @@
+#! /bin/sh
+infile="${1}"
+outfile="${2}"
+wkhtmltopdf -T 0 -L 0 -B 0 -R 0 --disable-smart-shrinking --page-width 180 --page-height 256 -q --allow ./images --enable-local-file-access "${infile}" "${outfile}"
+
